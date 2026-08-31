@@ -1,0 +1,12 @@
+{
+  "Group": "KLYC",
+  "Name": "Türkçe Çeviri Full",
+  "Version": "1.0.0",
+  "ServerVersion": "*",
+  "Description": "KLYC — Hytale'i baştan sona Türkçeleştirir. Oyun içi tüm metinler: eşya ve blok adları, açıklamalar, komutlar, NPC'ler, dünya metinleri, arayüz ipuçları, avatar özelleştirme. Yeni oyun sürümlerinde güncellenir. Menü çevirisi için ayrı kurulum betiği vardır.",
+  "Website": "https://github.com/ernklyc/hytale-turkce-ceviri",
+  "Authors": [
+    { "Name": "Eren KALAYCI (KLYC)", "Email": "ernklyc@gmail.com", "Url": "https://ernklyc.dev" }
+  ],
+  "IncludesAssetPack": true
+}

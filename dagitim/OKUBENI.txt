@@ -1,0 +1,82 @@
+╔══════════════════════════════════════════════════════════════╗
+║   HYTALE TÜRKÇE ÇEVİRİ FULL  —  KLYC                          ║
+║   Oyunun tamamı Türkçe: menüler + oyun içi her şey           ║
+╚══════════════════════════════════════════════════════════════╝
+
+  Bu paket HEM Windows HEM macOS için çalışır.
+
+────────────────────────────────────────────────────────────────
+  KURULUM
+────────────────────────────────────────────────────────────────
+
+  ► Önce Hytale'i bir kez aç–kapat (kurulu ve güncel olmalı).
+
+  ► Windows:
+      KUR-Windows.bat  dosyasına çift tıkla.
+      ("Windows PC'nizi korudu" çıkarsa: Ek bilgi -> Yine de çalıştır)
+
+  ► macOS:
+      KUR-Mac.command  dosyasına çift tıkla.
+      İlk seferde açılmazsa: SAĞ TIKLA -> "Aç" -> "Aç".
+
+  ► Pencerede işlem kendiliğinden yürür. "KURULUM TAMAM!" deyince
+    Enter'a bas, kapat.
+
+  ► Hytale'i TAMAMEN kapat, launcher'dan yeniden aç.
+    Menü İngilizce kalırsa:  Ayarlar -> Dil -> Türkçe.
+
+────────────────────────────────────────────────────────────────
+  İKİ PARÇA VAR
+────────────────────────────────────────────────────────────────
+
+  1) Oyun içi çeviri (eşya, blok, komut, NPC, dünya...)
+     -> Hytale'in resmi mod sistemi. Güncellemede KALICI.
+
+  2) Menü çevirisi (ana menü, ayarlar, butonlar, tooltip'ler...)
+     -> Oyunun dil klasörüne eklenir.
+        macOS'ta oyun yerel olarak yeniden imzalanır.
+        Windows'ta imzalamaya GEREK YOK (daha kolay).
+     -> Oyun GÜNCELLENİRSE bu parça silinebilir.
+
+────────────────────────────────────────────────────────────────
+  OYUN GÜNCELLENİRSE
+────────────────────────────────────────────────────────────────
+
+  Oyun içi çeviri kalır. Menü çevirisi gidebilir.
+  Çözüm: Güncellemeden sonra KUR dosyasına tekrar çift tıkla (10 sn).
+
+  Oyun "dosyalar bozuk" derse: launcher'da "Verify / Repair" yap,
+  sonra KUR dosyasını çalıştır.
+
+────────────────────────────────────────────────────────────────
+  KALDIRMA
+────────────────────────────────────────────────────────────────
+
+  Windows:  KALDIR-Windows.bat
+  macOS:    KALDIR-Mac.command
+
+  Oyun orijinal haline döner, mod silinir.
+
+────────────────────────────────────────────────────────────────
+  GÜVENLİK
+────────────────────────────────────────────────────────────────
+
+  • Bu araç internetten hiçbir şey indirmez, hiçbir yere veri
+    göndermez. Sadece kendi bilgisayarındaki dosyalarla çalışır.
+  • Sadece yazı dosyaları değişir. Oyun kodu, kayıtlar, Assets.zip
+    (3 GB) DEĞİŞMEZ.
+  • macOS'ta kurulumdan önce oyunun yedeği alınır:
+    UserData/_KLYC_TurkceYedek/
+  • Her adımda hata kontrolü var; ters giderse otomatik geri alır.
+
+────────────────────────────────────────────────────────────────
+  SORUN / GERİ BİLDİRİM
+────────────────────────────────────────────────────────────────
+
+  Yanlış / eksik / taşan çeviri gördüysen ekran görüntüsüyle
+  KLYC'ye ulaş. Çeviri sürekli güncelleniyor.
+
+  Detaylı rehber:  KURULUM-DETAYLI.md
+  Sürüm notları:   SURUM-NOTLARI.md
+  Lisans:          LISANS.txt  (özgürce paylaş, kaynak göster)
+  Yapım: Eren KALAYCI (KLYC)   ·   ernklyc@gmail.com   ·   ernklyc.dev

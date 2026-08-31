@@ -1,0 +1,11 @@
+# Oyunun İngilizce dosyaları — referans, EULA gereği dağıtılmaz
+kaynak/
+
+# Yerel yedekler
+_client_yedek/
+
+# Kök dizindeki build çıktısı (dagitim/mod/ içindeki DAHİL edilir)
+/KLYC-Turkce-Ceviri-v*.zip
+
+# macOS
+.DS_Store

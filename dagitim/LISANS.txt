@@ -1,0 +1,68 @@
+HYTALE TÜRKÇE ÇEVİRİ FULL — LİSANS
+==================================
+
+Telif hakkı (c) 2026 Eren KALAYCI (KLYC)
+ernklyc@gmail.com  ·  https://ernklyc.dev
+https://github.com/ernklyc/hytale-turkce-ceviri
+
+
+BU PAKET NEYİ İÇERİR / İÇERMEZ
+-----------------------------
+İÇERİR:  Yalnızca KLYC tarafından yazılan özgün Türkçe çeviri metinleri
+         (.lang dosyaları) ve kurulum betikleri.
+
+İÇERMEZ: Hytale'e ait hiçbir dosya, kod, varlık, görsel veya metin.
+         İngilizce kaynak metinler yalnızca çeviri sırasında referans
+         olarak kullanılmıştır, pakette bulunmaz.
+
+
+HAKLAR
+------
+Çeviri metinleri KLYC'nin özgün eseridir ve KLYC'ye aittir.
+
+Hytale'in kendisi Hypixel Studios'a aittir. Bu çeviri, Hytale EULA'sının
+izin verdiği çerçevede yapılmış resmi olmayan bir hayran çevirisidir.
+KLYC, Hypixel Studios ile bağlantılı değildir.
+
+
+KULLANIM İZNİ  (Creative Commons BY 4.0 benzeri)
+-----------------------------------------------
+Şunları YAPABİLİRSİN:
+  • Paketi serbestçe indir, kur, kullan.
+  • Kopyala ve başkalarıyla paylaş (GitHub, Discord, doğrudan vb.).
+  • Değiştir, düzelt, kendi sürümünü türet.
+
+Şu KOŞULLARLA:
+  • KAYNAK GÖSTER. "Çeviri: KLYC" ibaresini ve bu lisans metnini koru.
+  • Değiştirdiysen, değiştirdiğini belirt (orijinali KLYC'ye mal etme).
+  • AYRI OLARAK SATMA. Paketi tek başına ücret karşılığı dağıtma.
+    (Bir sunucu/moda dahil edip topluluğa ücretsiz sunmak serbesttir.)
+
+GARANTİ YOKTUR. Paket "olduğu gibi" sunulur. Oyun dosyalarını
+değiştirdiği için (menü çevirisi kısmı) kullanım riski kullanıcıya aittir;
+kurulum betiği yedek alır ve geri alma sağlar.
+
+
+CURSEFORGE / RESMİ MOD PLATFORMLARI
+----------------------------------
+Yalnızca mod paketi (`KLYC-Turkce-Ceviri-v*.zip`) yüklenebilir.
+Menü çevirisi + kurulum betikleri oyun dosyası değiştirdiği için
+CurseForge'a uygun değildir; GitHub üzerinden dağıtılır.
+
+
+═══════════════════════════════════════════════════════════════════════
+
+HYTALE TURKISH TRANSLATION FULL — LICENSE  (English summary)
+
+Copyright (c) 2026 KLYC.
+
+This package contains ONLY KLYC's original Turkish translation text and
+installer scripts. It contains NO Hytale files, code, or assets.
+
+The translation text is KLYC's original work. Hytale belongs to Hypixel
+Studios; this is an unofficial fan translation permitted under the Hytale
+EULA. KLYC is not affiliated with Hypixel Studios.
+
+Licensed CC BY 4.0-style: free to use, copy, share, and modify WITH
+attribution ("Translation: KLYC") and this license kept. Mark your
+changes. Do not sell the package on its own. Provided AS IS, no warranty.

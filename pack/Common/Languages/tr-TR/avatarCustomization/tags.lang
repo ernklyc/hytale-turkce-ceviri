@@ -1,0 +1,14 @@
+style.fantasy = Fantezi
+style.modern = Modern
+style.costume = Kostüm
+style.special = Özel
+haircut.short = Kısa Saç
+haircut.medium = Orta Saç
+haircut.long = Uzun Saç
+HairLength.Short.name = Kısa
+HairLength.Medium.name = Orta
+HairLength.Long.name = Uzun
+Style.Fantasy.name = Fantezi
+Style.Modern.name = Modern
+Style.Costume.name = Kostüm
+Style.Special.name = Özel
